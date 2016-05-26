@@ -1,8 +1,8 @@
 django-pipeline-csscompressor
 ==============
 
-A [django-pipeline](https://github.com/jazzband/django-pipeline) css compressor
-to compress css files using [csscompressor](https://github.com/sprymix/csscompressor).
+A https://github.com/jazzband/django-pipeline css compressor
+to compress css files using https://github.com/sprymix/csscompressor.
 
 This allows you to use django-pipeline to compress CSS files without having to
 rely on an external binary like YUI compressor, Uglify, etc.
